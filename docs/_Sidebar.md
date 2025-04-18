@@ -1,0 +1,48 @@
+<details>
+<summary>Controls</summary>
+<ul>
+  <li>FolderBrowser</li>
+  <li>DetailsFolderView</li>
+  <li>GridFolderView</li>
+  <li>ListFolderView</li>
+  <li>TilesFolderView</li>
+  <li>ContentFolderView</li>
+  <li>ColumnsFolderView</li>
+  <li>TreeFolderView</li>
+  <li>GalleryFolderView</li>
+  <li>HomeFolderView</li>
+  <li>RectanglurSelectionVisual</li>
+  <li>DataGrid</li>
+  <li>SidebarView</li>
+  <li>Omnibar</li>
+  <li>Toolbar</li>
+  <li>FilePreviewPresenter</li>
+  <li>ColorTags</li>
+  <li>RichTokens</li>
+  <li>TerminalView</li>
+</ul>
+</details>
+<details>
+<summary>API</summary>
+<ul>
+  <li>WindowsStorable</li>
+  <li>ArchiveStorable</li>
+  <li>HomeStorable</li>
+  <li>FtpStorable</li>
+  <li>SftpStorable</li>
+  <li>WebDAVStorable</li>
+</ul>
+</details>
+<details>
+<summary>Infrastructure</summary>
+<ul>
+  <li>CommandManager</li>
+  <li>MultitaskingManager</li>
+  <li>DialogManager</li>
+  <li>AppSettings</li>
+  <li>OperationServer</li>
+</ul>
+</details>
+
+Copyright © 2025 0x5BFA. All rights reserved.
+**Do not copy or redistribute modified versions.**

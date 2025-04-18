@@ -1,0 +1,1 @@
+Copyright © 2025 0x5BFA. All rights reserved. **Do not copy or redistribute modified versions.**
