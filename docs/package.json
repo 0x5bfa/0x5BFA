@@ -52,6 +52,7 @@
 		"@types/prismjs": "^1.26.0",
 		"autoprefixer": "^10.4.4",
 		"cssnano": "^5.1.7",
+		"fluent-svelte": "^1.6.0",
 		"mdsvex": "^0.9.8",
 		"mdsvexamples": "0.2.3",
 		"panzoom": "^9.4.2",
