@@ -7,8 +7,8 @@
 - 🔭 Working on [Files App](https://files.community) to refactor the source and introduce low-level APIs
 - 💻 Using C and C# and interested in C++ for COM and game development
 - 🗣️ Speak Japanese and English
-- 🛠️ Learning unmanaged boudary of C#
-- 💡 Will learn about the kernel driver and DirectX development
+- 🛠️ Learning unmanaged boudary of C# and DirectX 12 computer graphics
+- 💡 Will learn about the kernel driver
 - 📫 `0x5bfa`@Discord
 
 **GitHub stats**
