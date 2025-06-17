@@ -4,10 +4,10 @@
 
 - 🎓 University student studying Computer Science
 - 🔭 Working on [Files App](https://files.community) to refactor and optimize the codebase
-- 💻 *Mostly* proficient in pure C and WinUI/C#.
+- 💻 *Mostly* proficient in pure C and WinUI/C#
 - 🗣️ Speak Japanese and English
 - 🛠️ Learning unmanaged C# and C++ DirectX 12 development
-- 💡 Will learn about the concept of operating systems
+- 💡 Want to learn about the concept of operating systems
 - 📫 `0x5bfa`@Discord
 
 **GitHub stats**
