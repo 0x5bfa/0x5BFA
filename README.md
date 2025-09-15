@@ -7,8 +7,8 @@
 - 💻 *Mostly* proficient in pure C and WinUI/C#
 - 🗣️ Speak Japanese and English
 - 🗾 Live in Japan
-- 🛠️ Learning unmanaged C# and C++ DirectX 12 development
-- 💡 Want to learn about the concept of operating systems
+- 🛠️ Learning .NET runime and game engine architecture
+- 💡 Want to learn everything
 - 📫 `0x5bfa`@Discord
 
 **GitHub stats**
