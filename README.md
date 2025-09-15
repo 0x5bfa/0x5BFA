@@ -7,7 +7,7 @@
 - 💻 *Mostly* proficient in pure C and WinUI/C#
 - 🗣️ Speak Japanese and English
 - 🗾 Live in Japan
-- 🛠️ Learning .NET runime and game engine architecture
+- 🛠️ Learning .NET runtime and game engine architecture
 - 💡 Want to learn everything
 - 📫 `0x5bfa`@Discord
 
