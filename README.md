@@ -4,11 +4,11 @@
 
 - 🎓 Majoring Computer Science
 - 🔭 Working on [Files App](https://files.community) to refactor and optimize the codebase
-- 💻 *Mostly* proficient in pure C and WinUI/C#
+- 💻 *Mostly* proficient in C and C#
 - 🗣️ Speak Japanese and English
 - 🗾 Live in Japan
-- 🛠️ Learning .NET runtime and game engine architecture
-- 💡 Want to learn everything
+- 🛠️ Learning COM/C++ and .NET Runtime
+- 💡 Like to learn how things work
 - 📫 `0x5bfa`@Discord
 
 **GitHub stats**
