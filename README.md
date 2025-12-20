@@ -14,3 +14,4 @@
 **GitHub stats**
 
 [![0x5BFA's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x5BFA&count_private=true&include_all_commits=true)](https://github.com/0x5BFA)
+[![0x5BFA's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0x5BFA&langs_count=2&layout=compact)](https://github.com/0x5BFA)
