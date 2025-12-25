@@ -7,7 +7,7 @@
 - 💻 *Mostly* proficient in C and C#
 - 🗣️ Speak Japanese and English
 - 🗾 Live in Japan
-- 🛠️ Learning COM/WinRT and .NET Runtime
+- 🛠️ Learning D3D12, COM/WinRT, .NET Runtime etc
 - 📫 `0x5bfa`@Discord
 
 **GitHub stats**
