@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=0x5bfa&color=lightgrey)
+
 **Experiences & skills**
 
 - 🎓 Majoring Computer Science
