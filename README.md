@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=0x5bfa&color=lightgrey)
+## Hi there 👋 ![](https://komarev.com/ghpvc/?username=0x5bfa&color=lightgrey)
 
 **Experiences & skills**
 
@@ -9,7 +7,7 @@
 - 💻 *Mostly* proficient in C and C#
 - 🗣️ Speak Japanese and English
 - 🗾 Live in Japan
-- 🛠️ Learning D3D12, COM/WinRT, .NET Runtime etc
+- 🛠️ Learning D3D12, COM/WinRT, .NET Runtime, etc
 - 📫 `0x5bfa`@Discord
 
 **GitHub stats**
