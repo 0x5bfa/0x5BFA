@@ -2,13 +2,12 @@
 
 **Experiences & skills**
 
-- 🎓 Majoring Computer Science
-- 🔭 Working on [Files App](https://files.community) to refactor and optimize the codebase
+- 🎓 Majoring Computer Science in Japan
+- 🔭 Working on [Files App](https://files.community)
 - 💻 *Mostly* proficient in C and C#
-- 🗣️ Speak Japanese and English
-- 🗾 Live in Japan
+- 🗣️ Japanese and English
 - 🛠️ Learning D3D12, .NET Runtime, SwiftUI, etc
-- 📫 `0x5bfa`@Discord
+- 📫 onein528@outlook.com
 
 **GitHub stats**
 
